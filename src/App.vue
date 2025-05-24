@@ -3,7 +3,7 @@
     <div class="max-w-6xl mx-auto">
       <!-- Header -->
       <header class="text-center mb-8">
-        <a href="https://github.com/NuclearMissile/typing-practice2" target="_blank" rel="noreferrer noopener">
+        <a href="https://github.com/NuclearMissile/vue-typing-practice" target="_blank" rel="noreferrer noopener">
           <h1 class="text-4xl font-bold text-gray-800 mb-2">Typing Practice</h1>
         </a>
         <p class="text-gray-600">Improve your typing speed and accuracy</p>
